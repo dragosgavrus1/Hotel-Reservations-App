@@ -1,0 +1,64 @@
+.hotel-list-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.hotel-list-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.radius-input {
+    width: 100px;
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.search-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #1fb4a1;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.search-button:hover {
+    background-color: #249182;
+}
+
+.hotel-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.hotel-list-item {
+    margin-bottom: 10px;
+}
+
+.hotel-link {
+    text-decoration: none;
+    color: #333;
+    font-size: 24px;
+}
+
+.hotel-link:hover {
+    text-decoration: underline;
+}
+
+.reservation-link-button {
+    display: inline-block;
+}
+
+.radius-label {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 22px;
+    color: #333;
+}
